@@ -67,11 +67,12 @@ All the suggestions and contributions are welcome! Criticism included :) Want me
 This project is not associated with GitHub(r).
 
 [![Paid Service](https://img.shields.io/badge/Paid_Service-Available-brightgreen.svg)](mailto:info@jishan.codes)
-
+<html>
+<!--
 Prepaid services include:
 - [x] IM service (JSON format will be provided)
 - [x] Fill your data in USER_NAME.json and send!
 - [x] custom fonts, icons, and description
 - [x] <24 hours delivery!
-
+--></html>
 See https://github.com/jishanshaikh4/personal-branding/blob/master/LICENSE
